@@ -599,7 +599,7 @@ section {
 #subscribe {
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../img/subscribe-bg.jpg) fixed center center;
   background-size: cover;
-  padding: 80px 0;
+  padding: 250px 0;
 }
 
 #subscribe .subscribe-title {
