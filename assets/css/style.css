@@ -538,11 +538,11 @@ section {
 
 #services .service-icon {
   float: left;
-  background: #03C4EB;
+  background: #7fffd4;
   padding: 16px;
   border-radius: 50%;
   transition: 0.5s;
-  border: 1px solid #03C4EB;
+  border: 1px solid  #7fffd4;
 }
 
 #services .service-icon i {
@@ -555,7 +555,7 @@ section {
 }
 
 #services .service-item:hover .service-icon i {
-  color: #03C4EB;
+  color:#7fffd4;
 }
 
 #services .service-title {
@@ -587,6 +587,12 @@ section {
 .modal-body img{
   box-shadow: 0 0 8px 8px white inset;
 }
+
+#botonContacta{
+  background-color: #03C4EB;
+  color: #fff;
+}
+
 
 /* Subscribe Section
 --------------------------------*/
