@@ -15,7 +15,7 @@ body {
 }
 
 a {
-  color: #03C4EB;
+  color: #0ad6dd;
   transition: 0.5s;
 }
 
@@ -76,7 +76,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:hover {
-  background: #03C4EB;
+  background: #0ad6dd;
   color: #fff;
 }
 
@@ -142,7 +142,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero h2 span {
   color: #fff;
   transition: 0.3s;
-  border-bottom: 2px solid #03C4EB;
+  border-bottom: 2px solid #0ad6dd;
 }
 
 @media (max-width: 768px) {
@@ -174,8 +174,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-get-started {
-  background: #03C4EB;
-  border: 2px solid #03C4EB;
+  background: #0ad6dd;
+  border: 2px solid #0ad6dd;
   color: #fff;
 }
 
@@ -191,8 +191,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-services:hover {
-  background: #03C4EB;
-  border: 2px solid #03C4EB;
+  background: #0ad6dd;
+  border: 2px solid #0ad6dd;
 }
 
 /*--------------------------------------------------------------
@@ -263,7 +263,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #03C4EB;
+  color: #0ad6dd;
 }
 
 .nav-menu .drop-down ul {
@@ -300,7 +300,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
-  color: #03C4EB;
+  color: #0ad6dd;
 }
 
 .nav-menu .drop-down > a:after {
@@ -395,7 +395,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #03C4EB;
+  color: #0ad6dd;
   text-decoration: none;
 }
 
@@ -475,7 +475,7 @@ section {
 .section-title-divider {
   width: 50px;
   height: 3px;
-  background: #03C4EB;
+  background: #0ad6dd;
   margin: 0 auto;
   margin-bottom: 20px;
 }
@@ -538,11 +538,11 @@ section {
 
 #services .service-icon {
   float: left;
-  background: #7fffd4;
+  background:#0ad6dd;
   padding: 16px;
   border-radius: 50%;
   transition: 0.5s;
-  border: 1px solid  #7fffd4;
+  border: 1px solid #0ad6dd;
 }
 
 #services .service-icon i {
@@ -555,7 +555,7 @@ section {
 }
 
 #services .service-item:hover .service-icon i {
-  color:#7fffd4;
+  color:#0ad6dd;
 }
 
 #services .service-title {
@@ -575,7 +575,7 @@ section {
 }
 
 .modal-header{
-  background-color: #03C4EB;
+  background-color: #0ad6dd;
   color: #fff;
   text-transform: uppercase;
 }
@@ -589,7 +589,7 @@ section {
 }
 
 #botonContacta{
-  background-color: #03C4EB;
+  background-color: #0ad6dd;
   color: #fff;
 }
 
@@ -628,7 +628,7 @@ section {
 
 #contact .info i {
   font-size: 32px;
-  color: #03C4EB;
+  color: #0ad6dd;
   float: left;
 }
 
@@ -693,11 +693,11 @@ section {
 }
 
 #contact .php-email-form input::focus, #contact .php-email-form textarea::focus {
-  background-color: #03C4EB;
+  background-color: #0ad6dd;
 }
 
 #contact .php-email-form button[type="submit"] {
-  background: #03C4EB;
+  background: #0ad6dd;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -705,7 +705,7 @@ section {
 }
 
 #contact .php-email-form button[type="submit"]:hover {
-  background: #25d8fc;
+  background: #09b5bb;
 }
 
 @-webkit-keyframes animate-loading {
