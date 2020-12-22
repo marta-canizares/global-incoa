@@ -1,6 +1,11 @@
-Thanks for downloading this template!
+# GlobalIncoa
 
-Template Name: Imperial
-Template URL: https://bootstrapmade.com/imperial-free-onepage-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Proyecto hecho con html, css, javascript, jquery y php
+Página web de un gabinete jurídico
+
+## Autores ✒️
+
+* **Marta Sánchez Cañizares** 
+
+
+
